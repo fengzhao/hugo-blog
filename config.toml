@@ -1,6 +1,9 @@
 baseURL = "https://blog.fengzhao.pro/"
+
+
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "DoIt"
+
 
 # 网站标题
 title = "我的全新 Hugo 网站"
@@ -57,17 +60,21 @@ disablePathToLower = true
 
 
 # 菜单配置
+# identifier的值不能重复。 
+# weight是比重，值越小则该菜单的位置越靠上面。
+# name是菜单名字。 
+# pre和post分别对应当前菜单的前缀和后缀，可以定义fontawesome等图标。
+# title，当你将鼠标悬停在此菜单链接上时, 将显示的标题
+
+
 [menu]
   [[menu.main]]
     weight = 1
     identifier = "posts"
-    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
     pre = ""
-    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
     name = "所有文章"
     url = "/posts/"
-    # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = "something"
   [[menu.main]]
     weight = 2
