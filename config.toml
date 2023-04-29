@@ -34,12 +34,17 @@ enableEmoji = true
 # 忽略一些构建错误
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
-
-
-##########################################路径属性#######################################################
-
 # 是否禁止将网站路径转换成小写，建议设置成true
 disablePathToLower = true
+
+
+
+
+# 输出部分
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
 
 # 出于seo考虑，不建议在url里加上年月日之类的，由于标题大多有中文或者特殊字符，所以也不建议直接使用标题作为url的一部分。
 #这里建议使用slug的方式，自己手动给每篇文章提取若干个关键词作为slug，以此作为url的一部分
