@@ -1,3 +1,5 @@
+# 站点配置文件
+
 # base url 
 # 网站URL
 baseURL = "https://blog.fengzhao.pro"
@@ -6,13 +8,28 @@ baseURL = "https://blog.fengzhao.pro"
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 
-# theme
-# 主题
+
+################################################################################################# 
+# theme主题
 theme = "DoIt"
 
-# themes directory
-# 主题目录
+# themes directory主题目录
 themesDir = "../.."
+
+# 指定data目录。存放其他配置文件，通常为JSON、YAML或TOML格式。默认: data
+dataDir = "data"
+
+
+# 指定文章模板目录。默认：archetypes
+# archetypeDir：
+
+# 指定资源目录。存放需要Hugo Pipes处理的文件，比如需要编译的Sass或Less等。默认：assets
+# assetDir：
+
+# 指定内容目录。默认：content
+contentDir = "content"
+#################################################################################################
+
 
 # website title
 # 网站标题
