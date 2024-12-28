@@ -22,8 +22,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXTERNAL_REPOSITORY: fengzhao/hugo-blog # 注意要修改本处地址
-          cname: blog.fengzhao.pro
+          CNAME: blog.fengzhao.pro
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
