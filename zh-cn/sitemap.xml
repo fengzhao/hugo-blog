@@ -9,6 +9,10 @@
                         hreflang="en"
                         href="https://blog.fengzhao.pro/en/"
                         /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://blog.fengzhao.pro/zh/"
+                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://blog.fengzhao.pro/"
@@ -18,6 +22,10 @@
                         hreflang="en"
                         href="https://blog.fengzhao.pro/en/categories/"
                         /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://blog.fengzhao.pro/zh/categories/"
+                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://blog.fengzhao.pro/categories/"
@@ -26,6 +34,10 @@
                         rel="alternate"
                         hreflang="en"
                         href="https://blog.fengzhao.pro/en/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://blog.fengzhao.pro/zh/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
