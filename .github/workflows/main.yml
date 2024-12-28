@@ -24,5 +24,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.GITHUB_TOKEN }}
           EXTERNAL_REPOSITORY: fengzhao/hugo-blog # 注意要修改本处地址
+          cname: blog.fengzhao.pro
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
