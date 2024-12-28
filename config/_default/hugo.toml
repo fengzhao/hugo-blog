@@ -1,0 +1,4 @@
+baseURL = 'https://blog.fengzhao.pro'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'Doit'
