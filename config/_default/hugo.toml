@@ -4,4 +4,4 @@ defaultcontentlanguage = 'zh-cn'
 
 languageCode = 'zh-cn'
 title = 'My New Hugo Site'
-theme = 'Doit'
+theme = 'DoIt'
