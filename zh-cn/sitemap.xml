@@ -2,44 +2,42 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://blog.fengzhao.pro/posts/my-first-post/</loc><lastmod>2024-12-29T01:29:36&#43;08:00</lastmod></url><url>
-            <loc>https://blog.fengzhao.pro/posts/</loc><lastmod>2024-12-29T01:29:36&#43;08:00</lastmod></url><url>
-            <loc>https://blog.fengzhao.pro/</loc><lastmod>2024-12-29T01:29:36&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://blog.fengzhao.pro/en/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh"
-                        href="https://blog.fengzhao.pro/zh/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://blog.fengzhao.pro/"
-                    /></url><url>
-            <loc>https://blog.fengzhao.pro/categories/</loc><xhtml:link
+            <loc>https://blog.fengzhao.pro/zh-cn/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://blog.fengzhao.pro/en/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh"
-                        href="https://blog.fengzhao.pro/zh/categories/"
+                        href="https://blog.fengzhao.pro/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://blog.fengzhao.pro/categories/"
+                    href="https://blog.fengzhao.pro/zh-cn/categories/"
                     /></url><url>
-            <loc>https://blog.fengzhao.pro/tags/</loc><xhtml:link
+            <loc>https://blog.fengzhao.pro/zh-cn/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://blog.fengzhao.pro/en/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh"
-                        href="https://blog.fengzhao.pro/zh/tags/"
+                        href="https://blog.fengzhao.pro/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://blog.fengzhao.pro/tags/"
+                    href="https://blog.fengzhao.pro/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://blog.fengzhao.pro/zh-cn/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://blog.fengzhao.pro/en/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://blog.fengzhao.pro/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://blog.fengzhao.pro/zh-cn/"
                     /></url></urlset>
