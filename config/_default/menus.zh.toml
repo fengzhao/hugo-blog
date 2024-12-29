@@ -1,19 +1,19 @@
 
 # Chinese menus
 
-[[docs]]
+[[main]]
   name = "关于 Hugo"
   weight = 1
   identifier = "about"
   url = "/zh/about/"
 
-[[docs]]
+[[main]]
   name = "入门"
   weight = 5
   identifier = "getting-started"
   url = "/zh/getting-started/"
 
-[[docs]]
+[[main]]
   name = "主题"
   weight = 15
   identifier = "themes"
@@ -22,32 +22,32 @@
 
 # Core languages.zh.menus
 
-[[docs]]
+[[main]]
   name = "内容管理"
   weight = 20
   identifier = "content-management"
   post = "expanded"
   url = "/zh/content-management/"
 
-[[docs]]
+[[main]]
   name = "模板"
   weight = 25
   identifier = "templates"
   url = "/zh/templates/"
 
-[[docs]]
+[[main]]
   name = "函数"
   weight = 30
   identifier = "functions"
   url = "/zh/functions/"
 
-[[docs]]
+[[main]]
   name = "变量"
   weight = 35
   identifier = "variables"
   url = "/zh/variables/"
 
-[[docs]]
+[[main]]
   name = "CLI"
   weight = 40
   post = "break"
@@ -55,13 +55,13 @@
   url = "/commands/"
 
 # LOW LEVEL ITEMS
-[[docs]]
+[[main]]
   name = "故障排除"
   weight = 60
   identifier = "troubleshooting"
   url = "/zh/troubleshooting/"
 
-[[docs]]
+[[main]]
   name = "工具"
   weight = 70
   identifier = "tools"
