@@ -1,14 +1,13 @@
 
 # Chinese menus
-
 [[main]]
-  name = "关于 Hugo"
+  name = "首页"
   weight = 1
-  identifier = "about"
-  url = "/zh/about/"
+  identifier = "home"
+  url = "/"
 
 [[main]]
-  name = "入门"
+  name = "文章"
   weight = 5
   identifier = "getting-started"
   url = "/zh/getting-started/"
