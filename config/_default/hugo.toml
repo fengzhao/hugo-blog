@@ -1,3 +1,10 @@
+
+# hugo.yaml：站点配置文件；
+# languages.yaml：语言配置文件，多语言站点才需要用到；
+# menus.zh.yaml：中文菜单配置文件，非多语言站点只需要menus.yaml即可；
+# params.yaml：主题需要用到的参数配置文件；
+
+
 baseURL = 'https://blog.fengzhao.pro'
 
 
@@ -9,3 +16,4 @@ defaultcontentlanguage = 'zh'
 languageCode = 'zh-cn'
 title = 'My New Hugo Site'
 theme = 'DoIt'
+
