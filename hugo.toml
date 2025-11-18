@@ -33,7 +33,7 @@ hasCJKLanguage = true
   [[menu.main]]
       name = "归档"
       pre = """<i class="fa-solid fa-box-archive"></i>"""
-      url = "/archives/"
+      url = "/posts/"
       weight = 20
 
   [[menu.main]]
