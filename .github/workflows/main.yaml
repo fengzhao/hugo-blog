@@ -4,6 +4,14 @@ on:
     branches: # 那些分支需要触发
       - main
   workflow_dispatch:    
+
+# 关键步骤：设置权限
+permissions:
+  contents: write # 允许写入代码仓库内容
+  pages: write    # 允许写入 Pages 内容
+  id-token: write # 允许 OIDC 认证 (新版 Pages 部署需要)
+
+
 jobs:
   build:
     runs-on: ubuntu-latest # 镜像市场
