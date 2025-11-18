@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://blog.fengzhao.pro/</loc><lastmod>2025-11-18T16:07:41&#43;08:00</lastmod></url><url>
+            <loc>https://blog.fengzhao.pro/posts/my-new-post/</loc><lastmod>2025-11-18T16:07:41&#43;08:00</lastmod></url><url>
+            <loc>https://blog.fengzhao.pro/posts/</loc><lastmod>2025-11-18T16:07:41&#43;08:00</lastmod></url><url>
             <loc>https://blog.fengzhao.pro/categories/</loc></url><url>
-            <loc>https://blog.fengzhao.pro/</loc></url><url>
             <loc>https://blog.fengzhao.pro/tags/</loc></url></urlset>

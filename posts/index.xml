@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>FengZhao&#39;s blog</title>
-        <link>https://blog.fengzhao.pro/</link>
-        <description>这是我的全新 Hugo 网站</description>
+        <title>All Posts - FengZhao&#39;s blog</title>
+        <link>https://blog.fengzhao.pro/posts/</link>
+        <description>All Posts | FengZhao&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>fengzhaowork@outlook.com (fengzhao)</managingEditor>
-            <webMaster>fengzhaowork@outlook.com (fengzhao)</webMaster><lastBuildDate>Tue, 18 Nov 2025 16:07:41 &#43;0800</lastBuildDate>
-            <atom:link href="https://blog.fengzhao.pro/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>fengzhaowork@outlook.com (fengzhao)</webMaster><lastBuildDate>Tue, 18 Nov 2025 16:07:41 &#43;0800</lastBuildDate><atom:link href="https://blog.fengzhao.pro/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My New Post</title>
     <link>https://blog.fengzhao.pro/posts/my-new-post/</link>
     <pubDate>Tue, 18 Nov 2025 16:07:41 &#43;0800</pubDate>
